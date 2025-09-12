@@ -10,6 +10,7 @@ Bu repo, jean satış verisinin temizlenmesi, analizi ve Power BI gibi araçlard
 - **satis_analizi.xlsx** : Günlük satış trendi, kategori özeti, saat bazlı yoğunluk ve en çok satan ürünlerin toplandığı analiz sonuçları
 - **satis_model.xlsx** : Veri modelleme için hazırlanmış fact ve dimension tabloları içeren Excel dosyası
 - **denim_fit_sales_analysis.ipynb** : Verinin okunması, temizlenmesi, analizi ve Excel çıktılarını oluşturan Jupyter Notebook
+- **powerbı_report.pbix** : Power BI Desktop ile oluşturulmuş satış analiz raporu  
 
 ---
 
