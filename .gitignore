@@ -1,0 +1,23 @@
+# Jupyter notebook
+*.ipynb_checkpoints
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.env
+
+# macOS
+.DS_Store
+
+# VSCode
+.vscode/
+
+# Excel temporary files
+~$*
+
+# Power BI cache files (optional)
+*.pbix~*
+
+# Genel
+*.log
